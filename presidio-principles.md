@@ -15,21 +15,21 @@ Applications built on top of blockchain-based systems should preserve the follow
 ### Transparency & Accessibility – The right to information about the system. 
 A user should be able to:
 *   Understand how a service is operated, including potential risks of the service and the rules and standards upon which it is based. 
-*  Understand who ultimately controls a system.
+*  Understand who ultimately controls the system.
 *  Understand the system’s governance, rules, and consequences of rule violation.
 *  Understand system performance expectations.
-*  Know creators have evaluated fitness for purpose of blockchain technology relative to other options and are hence not using it for ulterior motives. 
+*  Know creators have evaluated fitness for purpose the selected technology relative to other options and are hence not using it for ulterior motives. 
 
 ### Privacy & Security – The right to data protection. 
 A user should be able to:
 *  Ensure their data is not accessed, manipulated, or destroyed without their permission.
 *  Know if their data is at risk through appropriate disclosure procedures.
-*  Have their data protected by internationally recognized technical security standards. 
+*  Have their data protected according to internationally recognized technical security standards. 
 *  Limit data collection to that which is necessary and data use to the purpose for which it was provided.
 
 ### Agency & Interoperability – The right for individuals to own & manage their data.
 A user should be able to:
-*  Create, manage, and keep private cryptographic keys.
+*  Create, manage, and keep private cryptographic keys secret.
 *  Manage consent of data stored in third-party systems.
 *  Port data between interoperable systems.
 *  Revoke consent for future data collection in the event of changes to the underlying protocol layer. 
