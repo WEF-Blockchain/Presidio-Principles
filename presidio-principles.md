@@ -17,19 +17,19 @@ A user should be able to:
 *   Understand how a service is operated, including potential risks of the service and the rules and standards upon which it is based. 
 *  Understand who is responsible for service delivery.
 *  Understand the system’s governance, rules, and consequences of rule violation.
-*  Understand system performance expectations, including the user value provided by the deploying blockchain technology.
-*  Understand user rights and obligations. 
+*  Understand system performance expectations.
+*  Understand user rights and obligations while usint the system. 
 
 ### Privacy & Security – The right to data protection. 
 A user should be able to:
 *  Grant or deny permission for their data to be accessed, manipulated, or destroyed in entirety.
 *  Know if their data is at risk through appropriate disclosure procedures.
-*  Enjoy data protection by internationally recognized technical security standards. 
+*  Know data is protected in accordance with internationally recognized technical security standards. 
 *  Limit data collection to that which is necessary and data use to the purpose for which it was provided.
 
 ### Agency & Interoperability – The right for individuals to own & manage their data.
 A user should be able to:
-*  Create, manage, and keep private cryptographic keys if accessing service directly via blockchain, or create, manage and keep login and password to access an application interface.
+*  Create, manage, and independently store cryptographic secret keys.
 *  Manage consent of data stored in third-party systems.
 *  Port data between interoperable systems.
 *  Revoke consent for future data collection in the event of changes to the underlying protocol layer. 
