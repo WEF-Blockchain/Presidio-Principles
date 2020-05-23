@@ -3,8 +3,8 @@
 ## Preamble
 Blockchain technology, a pillar of the Fourth Industrial Revolution, can not only unlock radical improvements across the public and private sectors, but also enable new business and governance models that help enhance security, accountability, and transparency for people worldwide. However, innovation that progresses without sufficient consideration for governance and user protection often leads to undesirable outcomes for individuals, companies, and societies. 
 
-We, the undersigned organizations and individuals, have forged the following principles with the World Economic Forum to help safeguard the promise of this technology. We hope that this document will provide creators of blockchain applications with a baseline for designing systems that preserve the rights How of its users.
-We call on developers, governments, executives, and corporate boards to uphold these tenets as they build blockchain applications – and to self-direct their ecosystems in using these principles as a foundational vision for how users can and should be protected. 
+We, the undersigned organizations and individuals, have forged the following principles with the World Economic Forum to help safeguard the promise of this technology. We hope that this document will provide creators of blockchain applications with a baseline for designing systems that preserve the rights of participating users.
+We call on developers, governments, executives, and corporate boards to uphold these tenets as they build blockchain applications – and to self-direct their ecosystems in using these principles as a foundational vision for how users and their rights can and should be protected. 
 
 We encourage technology users and policymakers to leverage these principles as they seek to bring greater accountability to the systems that power our societies.
 
@@ -14,11 +14,11 @@ Applications built on top of blockchain-based systems should preserve the follow
 
 ### Transparency & Accessibility – The right to information about the system. 
 A user should be able to:
-*  Understand how a service is operated, including potential risks of the service and the rules and standards upon which it is based. 
-*  Understand who is responsible for service delivery.
-*  Understand the system’s governance, rules, and consequences of rule violation.
-*  Understand system performance expectations.
-*  Understand user rights and obligations while using the system. 
+*  Understand how a service is operated and offered, under what conditions, as well as the potential related risks associated with the service and the standards upon which it is based.
+*  Understand who is responsible for the service delivery and the quality-of-service, and when applicable, clearly understand the service's dispute resolution mechanism.
+*  Understand the system's performance expectations.
+*  Understand the system’s governance model, its rules as well as the consequences of rule violation.
+*  Understand the user's rights and obligations while using the system. 
 
 ### Privacy & Security – The right to data protection. 
 A user should be able to:
